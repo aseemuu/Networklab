@@ -16,8 +16,8 @@ do
 done
 echo
 
-mca@MCA03:~/mca/Anjel/network$ chmod +x file2.sh
-mca@MCA03:~/mca/Anjel/network$ ./file2.sh
+mca@MCA03:~/mca/aseem/network$ chmod +x file2.sh
+mca@MCA03:~/mca/aseem/network$ ./file2.sh
 Enter number of terms: 6
 Fibonacci Series:
 0 1 1 2 3 5 
